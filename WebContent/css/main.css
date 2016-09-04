@@ -508,32 +508,32 @@ h1.navbar-brand {
 }
 
 /*=================================================================
-	About
+	schedule
 ==================================================================*/
 
-#about {
+#schedule {
     background-color: #009EE3;
     color: #fff;
 }
 
-#about h3 {
+#schedule h3 {
     color: #fff;
     margin: 0 0 35px;
     text-transform: uppercase;
 }
 
-#about .welcome-block h3 {
+#schedule .welcome-block h3 {
     margin: 0 0 65px;
 }
 
-#about .welcome-block img {
+#schedule .welcome-block img {
     border: 3px solid #fff;
     border-radius: 50%;
     margin-right: 35px;
     max-width: 100px;
 }
 
-#about .message-body {
+#schedule .message-body {
     font-size: 13px;
     line-height: 20px;
     margin-bottom: 70px;
